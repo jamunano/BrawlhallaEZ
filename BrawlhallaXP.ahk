@@ -1,4 +1,4 @@
-﻿notset = 1
+notset = 1
 
 ;-----------------------------------------------------------------o
 
@@ -81,48 +81,32 @@ Spam_Q:
 wintitle = Brawlhalla
 	IfWinExist %wintitle%:
 		ControlSend, , {%keyc%}, %wintitle%
-		Sleep 197
-		ControlSend, , {%keyc%}, %wintitle%
-		Sleep 198
-		ControlSend, , {%keyc%}, %wintitle%
-		Sleep 210
-		ControlSend, , {%keyc%}, %wintitle%
-		Sleep 198
-		
-		Sleep 198
-		
-		Sleep 604
-		ControlSend, , {%keyl% down}, %wintitle%
-		Sleep 203
-		ControlSend, , {%keyl% up}, %wintitle%
-		Sleep 180
-		ControlSend, , {%keyj%}, %wintitle%
-		Sleep 199
-		ControlSend, , {%keyh%}, %wintitle%
-		ControlSend, , {%keyc%}, %wintitle%
-		Sleep 203
 		ControlSend, , {%keyc%}, %wintitle%
 		ControlSend, , {%keyc%}, %wintitle%
-		Sleep 198
-		
-		Sleep 210
-		
-		Sleep 196
 		ControlSend, , {%keyp%}, %wintitle%
-		Sleep 197
-		
-		Sleep 597
-		ControlSend, , {%keyr% down}, %wintitle%
-		Sleep 189
-		ControlSend, , {%keyr% up}, %wintitle%
-		Sleep 204
-		ControlSend, , {%keyj%}, %wintitle%
-		Sleep 199
+		Sleep 200
+		ControlSend, , {%keyl% down}, %wintitle%
+		Sleep 500
 		ControlSend, , {%keyh%}, %wintitle%
+		Sleep 600
+		ControlSend, , {%keyl% up}, %wintitle%
+		ControlSend, , {%keyj%}, %wintitle%
+		ControlSend, , {%keyh%}, %wintitle%
+		Sleep 200
 		ControlSend, , {%keyc%}, %wintitle%
-		Sleep 198
-
-return
+		ControlSend, , {%keyc%}, %wintitle%
+		ControlSend, , {%keyc%}, %wintitle%
+		ControlSend, , {%keyp%}, %wintitle%
+		Sleep 200
+  		ControlSend, , {%keyr% down}, %wintitle%
+		Sleep 500
+		ControlSend, , {%keyh%}, %wintitle%
+		Sleep 600
+		ControlSend, , {%keyr% up}, %wintitle%
+		ControlSend, , {%keyj%}, %wintitle%
+		ControlSend, , {%keyh%}, %wintitle%
+		Sleep 200
+  return
 
 ;-----------------------------------------------------------------o
 
