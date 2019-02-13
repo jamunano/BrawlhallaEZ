@@ -1,15 +1,14 @@
 # Brawlhalla-XP
-A Brawlhalla EXP Farming bot.
+A Brawlhalla EXP/Coin Farming bot.
 In this version, you can unfocus the Brawlhalla window and the bot will continue to run in the background.
+No need to set your controls either, as they are set by default.
+Just click done and you'll be okay! :D
 
-Next update:
+Next Update:
 - Auto Custom Game
 - Auto select Game Mode
 - Auto Legend selecting
 - Auto Everything...
-
-In the next update, the bot requires you to stay in the Brawlhalla window while you run the bot.
-But, It will have more features...
 
 If there are any errors, let me know.
 Discord: Jam#7383
