@@ -36,7 +36,7 @@ notset = 1
 if (notset == 0) {
 IfWinExist %wintitle%
 	toggle := !toggle
-		SetTimer Repeat, -904000
+		SetTimer Repeat, -900000
 			while, (toggle) { 
 				random_fight()
 				return
@@ -82,16 +82,17 @@ return
 Repeat:
  {
  toggle = 0
+ Sleep 7000
  ControlSend, , %keyc%, %wintitle%
- Sleep 1500
+ Sleep 1700
  ControlSend, , %keyc%, %wintitle%
- Sleep 1500
+ Sleep 1700
  ControlSend, , %keyc%, %wintitle%
- Sleep 1500
+ Sleep 1700
  ControlSend, , %keyc%, %wintitle%
- Sleep 1500
+ Sleep 1700
  ControlSend, , %keyc%, %wintitle%
- Sleep 1500
+ Sleep 10000
  toggle := !toggle
  return
  }
@@ -112,18 +113,17 @@ Return
 random_fight() {
 	movekeys := Object(0, "space", 1, "a", 2, "s", 3, "d", 4, "")
 	fightkeys := Object(0, "h", 1, "j", 2, "k", 3, "l", 4, "")
-	loop 
-	{
 	Random, fnum , 0, 4
 	Random, mnum , 0, 4
 	fkey = % fightkeys[fnum]
 	mkey = % movekeys[mnum]
+	return
+	
 	ControlSend, , {%mkey% down}, %wintitle%
 	ControlSend, , {%fkey% down}, %wintitle%
 	Sleep 200
 	ControlSend, , {%mkey% up}, %wintitle%
 	ControlSend, , {%fkey% up}, %wintitle%
-	}
 	return
 }
 
