@@ -142,7 +142,7 @@ Instructions:
 3. Add 1 bot. (Easy / Medium / Hard)
 4. Game Mode Brawlball
 6. CTRL+T then click Done
-7. CTRL+T when game starts.
+7. CTRL+T when game starts. (After 3, 2, 1 count down)
 
 ----------------------------------------
 
