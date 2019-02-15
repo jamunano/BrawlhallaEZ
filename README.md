@@ -13,6 +13,8 @@ SilentXP:
 - [ ] Automatic game launching
 - [ ] Automatic legend selecting
 - [ ] Automatic room settings
+- [ ] Save controls for the next time you launch the bot
+
 
 Help from:
 1. [Gashihiko](https://github.com/gashihiko)
