@@ -16,9 +16,9 @@ SilentXP:
 - [ ] Save controls for the next time you launch the bot
 
 
-Help from:
-1. [Gashihiko](https://github.com/gashihiko)
-2. [Samster](https://github.com/BrotherSamster)
+Assistance from:
+1. [Gashihiko](https://github.com/gashihiko) <3
+2. [Samster](https://github.com/BrotherSamster) <3
 
 If there are any errors, let me know.
 
