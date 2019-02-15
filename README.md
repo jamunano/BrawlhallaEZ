@@ -5,11 +5,18 @@ In this version, you can unfocus the Brawlhalla window and the bot will continue
 
 No need to set your controls either, as they are set by default. Just click done and you'll be okay! :D
 
-Next Update:
-- Auto Custom Game
-- Auto select Game Mode
-- Auto Legend selecting
-- Auto Everything...
+SilentXP:
+- [x] Runs in background!
+- [x] Controls are automatically set.
+- [x] Random movement. (More "Human" like)
+- [ ] Custom controls
+- [ ] Automatic game launching
+- [ ] Automatic legend selecting
+- [ ] Automatic room settings
+
+Help from:
+1. [Gashihiko](https://github.com/gashihiko)
+2. [Samster](https://github.com/BrotherSamster)
 
 If there are any errors, let me know.
 
