@@ -17,8 +17,8 @@ SilentXP:
 
 
 Assistance from:
-1. [Gashihiko](https://github.com/gashihiko) <3
-2. [Samster](https://github.com/BrotherSamster) <3
+- [Gashihiko](https://github.com/gashihiko) <3
+- [Samster](https://github.com/BrotherSamster) <3
 
 If there are any errors, let me know.
 
