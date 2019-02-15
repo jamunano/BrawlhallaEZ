@@ -20,6 +20,6 @@ Assistance from:
 - [Gashihiko](https://github.com/gashihiko) <3
 - [Samster](https://github.com/BrotherSamster) <3
 
-If there are any errors, let me know.
+If there are any errors or questions you may have, let me know.
 
 Discord: Jam#7383
