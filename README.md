@@ -9,7 +9,7 @@ SilentXP:
 - [x] Runs in background!
 - [x] Controls are automatically set.
 - [x] Random movement. (More "Human" like)
-- [ ] Custom controls
+- [x] Custom controls
 - [ ] Automatic game launching
 - [ ] Automatic legend selecting
 - [ ] Automatic room settings
