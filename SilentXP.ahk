@@ -67,7 +67,6 @@ if (notset == 1) {
 
 ButtonDone:
 Gui, submit
-MsgBox, %keyj% %keyk% %keyh% %keyl% %keyspace% %keya% %keys% %keyd%
 Gui, Destroy
 notset = 0
 return
@@ -99,7 +98,7 @@ random_fight() {
 }
 
 start_match() {
-sleep 10000
+sleep 20000
 	ControlSend, , {%keyj% down}, %wintitle%
 	sleep 200
 	ControlSend, , {%keyj% up}, %wintitle%
