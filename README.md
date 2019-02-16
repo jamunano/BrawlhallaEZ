@@ -20,6 +20,11 @@ Assistance from:
 - [Gashihiko](https://github.com/gashihiko) <3
 - [Samster](https://github.com/BrotherSamster) <3
 
+Plans for next update:
+- Adding a better fighting algorithm. (Less falling?)
+- Add more things to the gui
+- Still working on the "Auto everything" bot
+
 If there are any errors or questions you may have, let me know.
 
 Discord: Jam#7383
