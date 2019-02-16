@@ -1,4 +1,4 @@
-# Brawlhalla-XP
+# BrawlhallaEZ
 A Brawlhalla EXP/Coin Farming bot.
 
 In this version, you can unfocus the Brawlhalla window and the bot will continue to run in the background.
