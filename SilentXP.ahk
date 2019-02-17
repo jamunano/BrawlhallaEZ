@@ -39,7 +39,7 @@ if (notset == 0) {
 }
 
 if (notset == 1) {
-	Gui, Add, Tab3, x0 y0 w340 h310, Ready|Controls
+	Gui, Add, Tab3, x0 y0 w340 h310, Controls|Ready
 	Gui, Add, Text, x16 y35 w120 h23 +0x200, Light Attack
 	Gui, Add, Text, x16 y95 w120 h23 +0x200, Heavy Attack
 	Gui, Add, Text, x16 y155 w120 h23 +0x200, Jump
@@ -56,7 +56,7 @@ if (notset == 1) {
 	Gui, Add, Edit, x192 y118 w120 h21 vkeyd, d
 	Gui, Add, Edit, x192 y178 w120 h21 vkeyh, h
 	Gui, Add, Edit, x192 y238 w120 h21 vkeyl, l
-	Gui, Tab, Controls
+	Gui, Tab, Ready
 	Gui, Add, Text, x16 y35 w120 h23 +0x200, Huge thanks to:
 	Gui, Add, Link, x16 y65 w120 h23, <a href="https://github.com/gashihiko">Gashihiko</a>
 	Gui, Add, Link, x16 y85 w120 h23, <a href="https://github.com/BrotherSamster">Samster</a>
@@ -115,6 +115,10 @@ sleep 20000
 	sleep 200
 	ControlSend, , {%keyj% up}, %wintitle%
 	Sleep 700
+	ControlSend, , {%keyj% down}, %wintitle%
+	sleep 200
+	ControlSend, , {%keyj% up}, %wintitle%
+	sleep 700
 	ControlSend, , {%keyj% down}, %wintitle%
 	sleep 200
 	ControlSend, , {%keyj% up}, %wintitle%
