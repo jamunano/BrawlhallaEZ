@@ -25,4 +25,4 @@ Plans for next update:
 - Add more things to the gui
 - Still working on the "Auto everything" bot
 
-If there are any errors or questions you may have, go to this[Discord Server](https://discord.gg/2uj73mK) and I'll try to help you :D
+If there are any errors or questions you may have, go to this [Discord Server](https://discord.gg/2uj73mK) and I'll try to help you :D
