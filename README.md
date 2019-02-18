@@ -20,9 +20,10 @@ Assistance from:
 - [Gashihiko](https://github.com/gashihiko) <3
 - [Samster](https://github.com/BrotherSamster) <3
 
-Plans for next update:
+Plans for later updates:
 - Adding a better fighting algorithm. (Less falling?)
-- Add more things to the gui
+- Add stats! (Amount of XP/COINS earned, time executed, etc...)
+- Cleaner GUI
 - Still working on the "Auto everything" bot
 
-If there are any errors or questions you may have, go to this [Discord Server](https://discord.gg/2uj73mK) and I'll try to help you :D
+If there are any errors or questions you may have, [Discord](https://discord.gg/2uj73mK)
