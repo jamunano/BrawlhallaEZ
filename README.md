@@ -1,6 +1,13 @@
 # BrawlhallaEZ
 A Brawlhalla EXP/Coin Farming bot.
 
+**HotKeys**
+>Toggle on: CTRL+T
+
+>Help: CTRL+H
+
+>Kill bot: CTRL+Q
+
 **SilentXP:**
 - [x] Runs in background!
 - [x] Controls are automatically set.
