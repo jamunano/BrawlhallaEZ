@@ -1,4 +1,6 @@
 #NoEnv
+SendMode Input
+SetWorkingDir %A_ScriptDir%
 global wintitle
 wintitle = Brawlhalla
 loop {
@@ -9,8 +11,13 @@ loop {
 	}
 	Else
 	{
-		MsgBox, Start Brawlhalla!
-		Sleep 10000
+	MsgBox, 1,, Start Brawlhalla!
+		IfMsgBox OK
+    	notset = 0
+		else
+    	ExitApp
+	Sleep 15000
+		
 	}
 }
 
@@ -23,6 +30,18 @@ Configure:
 Gui, Destroy
 ^t::
 if (notset == 0) {
+ControlSend, , {%keyj% down}, %wintitle%
+sleep 200
+ControlSend, , {%keyj% up}, %wintitle%
+sleep 200
+ControlSend, , {%keyj% down}, %wintitle%
+sleep 200
+ControlSend, , {%keyj% up}, %wintitle%
+sleep 200
+ControlSend, , {%keyj% down}, %wintitle%
+sleep 200
+ControlSend, , {%keyj% up}, %wintitle%
+Sleep 11200
 ;global toggle := !toggle
 	global repeat := A_TickCount
 	global end_at = 897000
@@ -130,7 +149,7 @@ sleep 20000
 	ControlSend, , {%keyj% down}, %wintitle%
 	sleep 200
 	ControlSend, , {%keyj% up}, %wintitle%
-	Sleep 10000
+	Sleep 12000
 return
 }
 
@@ -148,13 +167,26 @@ MsgBox,
 ( 
 Instructions:
 
-1. Launch Brawlhalla
-2. Custom Game
-3. Add 1 bot. (Easy / Medium / Hard)
-4. Game Mode Brawlball
-6. CTRL+T then click Done
-7. Start the game...
-8. CTRL+T again when game starts. (After 3, 2, 1 count down)
+1. Custom Game
+2. Add 1 bot (Easy / Medium / Hard)
+3. Game Mode Brawlball
+4. CTRL+T, click Done button
+5. CTRL+T again to start match.
+
+Detailed:
+
+First, you need to start Brawlhalla(duh)
+Then you need to create a cutom game room.
+Once you've done that, you want to set your
+game mode to Brawlball. After you do that
+you want to add any amount of bots you'd
+like to your game. THEN! press CTRL+T to
+bringup a window to set your controls!
+Once you've set your controls, Click on
+the "Ready" tab and press the Done button.
+Choose a legend (Preferably the one you
+want to level up) Done? Cool! Now you
+press CTRL+T again, and you're off!
 
 ----------------------------------------
 
@@ -181,4 +213,5 @@ Help: CTRL+H
 )
 return
 
+;^p:: suspend, toggle
 ^q:: ExitApp
