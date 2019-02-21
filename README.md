@@ -1,5 +1,5 @@
 # BrawlhallaEZ
-A Brawlhalla EXP/Coin Farming bot.
+A Brawlhalla EXP/Coin Farming bot/script/whatever.
 
 **HotKeys**
 >Toggle on: CTRL+T
