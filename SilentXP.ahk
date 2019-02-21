@@ -12,12 +12,11 @@ loop {
 	Else
 	{
 	MsgBox, 1,, Start Brawlhalla!
-		IfMsgBox OK
+	IfMsgBox OK
     	notset = 0
-		else
+	else
     	ExitApp
 	Sleep 15000
-		
 	}
 }
 
@@ -27,8 +26,10 @@ return
 ;-----------------------------------------------------------------o
 
 Configure:
-Gui, Destroy
+return
+
 ^t::
+Gui, Destroy
 if (notset == 0) {
 ControlSend, , {%keyj% down}, %wintitle%
 sleep 200
