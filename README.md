@@ -13,8 +13,8 @@ A Brawlhalla EXP/Coin Farming bot.
 - [x] Controls are automatically set.
 - [x] Random movement. (More "Human" like)
 - [x] Custom controls
+- [x] Automatic legend selecting
 - [ ] Automatic game launching
-- [ ] Automatic legend selecting
 - [ ] Automatic room settings
 - [ ] Save controls for the next time you launch the bot
 
