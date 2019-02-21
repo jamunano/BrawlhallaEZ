@@ -1,7 +1,10 @@
 #NoEnv
 SendMode Input
 SetWorkingDir %A_ScriptDir%
+
 global wintitle
+global keyj, keyk, keyspace, keys, keya, keyd, keyh, keyl
+
 wintitle = Brawlhalla
 loop {
 	IfWinExist, %wintitle%
@@ -13,7 +16,7 @@ loop {
 	{
 	MsgBox, 1,, Start Brawlhalla!
 	IfMsgBox OK
-    	notset = 0
+    	notset = 1
 	else
     	ExitApp
 	Sleep 15000
@@ -93,8 +96,6 @@ return
 }
 
 ;-----------------------------------------------------------------o
-
-global keyj := %keyj%, keyk := %keyk%, keyspace := %keyspace%, keys := %keys%, keya := %keya%, keyd := %keyd%, keyh := %keyh%, keyl := %keyl%
 
 random_fight() {
 	;if (toggle) {
