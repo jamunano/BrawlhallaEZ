@@ -30,4 +30,4 @@ A Brawlhalla EXP and Coin Farming bot/script/whatever.
 - Cleaner GUI
 - Still working on the "Auto everything" bot
 
-If there are any errors or questions you may have, [Discord](https://discord.gg/2uj73mK)
+Errors, Questions, Requests, More Scripts: [Discord](https://discord.gg/2uj73mK)
