@@ -1,6 +1,8 @@
 # BrawlhallaEZ
 A Brawlhalla EXP and Coin Farming bot/script/whatever.
 
+Disclaimer: Use at your own risk!
+
 **HotKeys**
 >Toggle on: CTRL+T
 
