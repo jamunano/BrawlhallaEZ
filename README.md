@@ -10,14 +10,24 @@ A Brawlhalla EXP and Coin Farming bot/script/whatever.
 
 **SilentXP:**
 - [x] Runs in background!
-- [x] Controls are automatically set.
-- [x] Random movement. (More "Human" like)
+- [x] Controls are automatically set
+- [x] Random movement (More "Human" like)
 - [x] Custom controls
 - [x] Automatic legend selecting
-- [x] Save controls for the next time you launch the bot
-- [ ] Automatic game launching
-- [ ] Automatic room settings
+- [x] Save controls for next launch
 
+**BrawlhallaEZ**
+- [x] Controls are automatically set
+- [x] Random movement (More "Human" like)
+- [x] Custom Controls
+- [x] Automatic game launching
+- [x] Automatic room setup
+- [x] Automatic legend selecting
+- [x] Automatic match starting loop
+- [x] Toggle on and off
+- [x] Save controls for next launch
+- [x] No *spazzing* errors!
+- [ ] Runs in background.
 
 **Assistance from:**
 > [Gashihiko](https://github.com/gashihiko)
@@ -25,7 +35,7 @@ A Brawlhalla EXP and Coin Farming bot/script/whatever.
 **Plans for later updates:**
 - Adding a better fighting algorithm. (Less falling?)
 - Add stats! (Amount of XP/COINS earned, time executed, etc...)
-- Cleaner GUI
-- Still working on the "Auto everything" bot
+- Cleaner GUI(?)
+- Still working on actual BrawlhallaEZ scriptbot.
 
 Errors, Questions, Requests, More Stuff: [Discord](https://discord.gg/2uj73mK)
