@@ -16,7 +16,7 @@ A Brawlhalla EXP and Coin Farming bot/script/whatever.
 - [x] Automatic legend selecting
 - [x] Save controls for next launch
 
-**BrawlhallaEZ**
+**BrawlhallaEZ** (Not Released)
 - [x] Controls are automatically set
 - [x] Random movement (More "Human" like)
 - [x] Custom Controls
