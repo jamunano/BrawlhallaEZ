@@ -592,7 +592,7 @@ write_config() {
 ;==============================================================
 SetTrayMenu() {
 Menu, Tray, NoStandard
-Menu, Tray, Tip, SilentXP
+Menu, Tray, Tip, BrawlhallaEZ
 Menu, Tray, Add, &Status, TrayStatus
 Menu, Tray, Check, &Status
 ;Menu, Tray, Add, &Mode, TrayMode
