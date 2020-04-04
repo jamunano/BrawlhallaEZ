@@ -1,45 +1,46 @@
 # BrawlhallaEZ
-A Brawlhalla EXP and Coin Farming bot/script/whatever.
+a brawlhalla exp and coin farming bot/script thing whatever
 
-Disclaimer: Use at your own risk!
+disclaimer: use at your own risk! (because the script spazzed out and bought stuff from the store...)
 
-## **HotKeys**
->Toggle on: CTRL+T
+## **hotkeys**
+>toggle on: CTRL+T
 
->Help: CTRL+H
+>help: CTRL+H
 
->Kill bot: CTRL+Q
+>kill bot: CTRL+Q
 
-## **SilentXP**
-- [x] Runs in background!
-- [x] Controls are automatically set
-- [x] Random movement (More "Human" like)
-- [x] Custom controls
-- [x] Automatic legend selecting
-- [x] Save controls for next launch
+## **SilentXP** (old BrawlhallaEZ, release)
+- [x] runs in background!
+- [x] controls are automatically set
+- [x] random movement (more "human" like)
+- [x] custom controls
+- [x] automatic match starting (timed)
+- [x] automatic legend selecting
+- [x] save controls for next launch
 
-## **BrawlhallaEZ** (Beta)
-- [x] Controls are automatically set
-- [x] Random movement (More "Human" like)
-- [x] Custom Controls
-- [x] Automatic match starting loop
-- [x] Toggle on and off
-- [x] Save controls for next launch
-- [x] No *spazzing* errors!
-- [x] Status GUI
-- [ ] Runs in background.
-- [ ] Automatic game launching
-- [ ] Automatic room setup
-- [ ] Automatic legend selecting
+## **BrawlhallaEZ** (beta)
+- [x] controls are automatically set
+- [x] random movement
+- [x] custom controls
+- [x] automatic match starting (detected)
+- [x] toggle on and off
+- [x] save controls for next launch
+- [x] no *spazzing* errors! (maybe MAYBE)
+- [x] status gui
+- [ ] runs in background
+- [ ] automatic game launching
+- [ ] automatic room setup
+- [ ] automatic legend selecting
 
-## **Assistance from:**
+## **assistance from:**
 > [Gashihiko](https://github.com/gashihiko)
 
-## **Plans for later updates:**
-- Adding a better fighting algorithm. (Less falling?)
-- Add stats! (Amount of XP/COINS earned, time executed, etc...)
-- Cleaner GUI(?)
-- Still working on actual BrawlhallaEZ scriptbot.
+## **plans for future updates:**
+- enhance fighting algorithm (less falling?)
+- stats (amount of xp/coins earned, time executed, etc...)
+- 
+- start working on actual BrawlhallaEZ scriptbot beep boop
 
-### Errors, Questions, Requests, More Stuff:
-[Discord](https://discord.gg/2uj73mK)
+### bugs, questions, requests, extra scripts:
+[discord](https://discord.gg/2uj73mK)
