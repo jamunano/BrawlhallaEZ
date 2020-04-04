@@ -39,7 +39,7 @@ disclaimer: use at your own risk! (because the script spazzed out and bought stu
 ## **plans for future updates:**
 - enhance fighting algorithm (less falling?)
 - stats (amount of xp/coins earned, time executed, etc...)
-- 
+- automatic script updates weeeeeeee
 - start working on actual BrawlhallaEZ scriptbot beep boop
 
 ### bugs, questions, requests, extra scripts:
