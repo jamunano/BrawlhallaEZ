@@ -25,7 +25,7 @@ i do not take any responsibility and i am not liable for any damage caused throu
 - [x] controls are automatically set
 - [x] random movement
 - [x] custom controls
-- [x] automatic match starting (detected)
+- [x] automatic match starting (using pixelsearch)
 - [x] toggle on and off
 - [x] save controls for next launch
 - [x] no *spazzing* errors! (maybe MAYBE)
