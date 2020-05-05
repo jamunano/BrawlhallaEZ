@@ -1,4 +1,4 @@
-﻿/*
+/*
 
 tested and working on ahk version 1.1.32.00 (20/05/05)
 brawlhallaez version b0.15
@@ -68,7 +68,7 @@ Else
    WinSet, Transparent, 245
    Gui, Color, 20252d
    Gui, Font, Segoe UI
-   Gui, Margin, 0, 0
+   ;Gui, Margin, 0, 0
 
       Gui, Font, s11 cc3c4c6 Bold
       Gui, Add, Edit, x0 y0 -E0x200 0x8 w300 h35 -VScroll -Background +Disabled -Border hwndBGColor
@@ -337,7 +337,7 @@ Gui, +LastFound +AlwaysOnTop -Caption
 WinSet, Transparent, 245
 Gui, Color, 20252d
 Gui, Font, Segoe UI
-Gui, Margin, 0, 0
+;Gui, Margin, 0, 0
 
    Gui, Font, s11 cc3c4c6 Bold
    Gui, Add, Edit, x0 y0 -E0x200 0x8 w300 h35 -VScroll -Background +Disabled -Border hwndBGColor
@@ -693,7 +693,7 @@ Gui, Destroy
 Gui, +LastFound +AlwaysOnTop -Caption
 WinSet, Transparent, 245
 Gui, Color, 20252d
-Gui, Margin, 0, 0
+;Gui, Margin, 0, 0
 Gui, Font, s11 cc3c4c6 Bold
 Gui, Add, Picture, x0 y0, guires\bg.png
 
