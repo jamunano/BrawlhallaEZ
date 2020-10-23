@@ -1,4 +1,6 @@
 # BrawlhallaEZ
+download the source code and run .ahk script, not releases.
+
 a brawlhalla exp and coin farming bot/script thing whatever
 
 ## disclaimer
