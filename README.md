@@ -3,6 +3,8 @@ a brawlhalla exp and coin farming bot/script thing whatever
 
 (download the source code and run .ahk script, not releases.)
 
+[made a video for omega dummies](https://youtu.be/t1rLyzTfHiY)
+
 ## disclaimer
 use at your own risk! (because the script spazzed out and bought stuff from the store...)
 i do not take any responsibility and i am not liable for any damage caused through use of this program, be it indirect, special, incidental or consequential damages (including but not limited to damages for loss of data, loss of profits, interruption or loss of information)
