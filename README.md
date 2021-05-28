@@ -1,4 +1,4 @@
-PROJECT HAS BEEN DEPRICATED. PLEASE GO [HERE](https://discord.gg/2HDmuqqq9p) FOR MORE INFO.
+PROJECT HAS BEEN DEPRICATED. NEW PROJECT IN DEVELOPMENT. PLEASE GO [HERE](https://discord.gg/2HDmuqqq9p) FOR MORE INFO.
 
 # BrawlhallaEZ
 a brawlhalla exp and coin farming bot/script thing whatever
