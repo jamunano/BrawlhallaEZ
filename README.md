@@ -1,6 +1,6 @@
 PROJECT HAS BEEN DEPRICATED. NEW PROJECT IN DEVELOPMENT. PLEASE GO [HERE](https://discord.gg/2HDmuqqq9p) FOR MORE INFO.
 
-or, you can go to a python version with some more features [HERE](https://github.com/Sovamorco/BHBot)!
+or, you can go to a python version with some more features [HERE](https://github.com/Sovamorco/BHBot)! (not developed by me)
 
 # BrawlhallaEZ
 a brawlhalla exp and coin farming bot/script thing whatever
